@@ -1,4 +1,6 @@
-# «Плавучие сады» — 65 кадров (Midjourney + Veo)
+# «Плавучие сады» — 50 кадров (Midjourney + Veo)
+
+Кадры 1–15 уже готовы и убраны из списка. Нумерация сохранена прежней (16–65).
 
 ## Референсы: что это и где какие
 Создайте их один раз, сохраните в папку/мудборд и подключайте строго по таблице под каждым кадром.
@@ -7,12 +9,12 @@
 |---|---|---|---|
 | **HERO** | Мастер-референс героини: ваш портрет (лицо + костюм). Лучше ещё 3/4 и профиль | **Attach to prompt** | кадры с героиней и вставки на костюм |
 | **WORLD** | Эталон вида мира: один удачный кадр озера с плотами и лебедями | **Style reference** | **все** кадры, включая природу |
-| **LOC-LAKE** | озеро с плотами (кадр 1) | Image Prompts | общие планы воды |
-| **LOC-HOUSE** | дом с травяной крышей (кадр 2) | Image Prompts | кадры 2–6 |
-| **LOC-PATH** | тропа в травах (кадр 10) | Image Prompts | кадры 10–17 |
-| **LOC-JETTY** | деревянный причал (кадр 8) | Image Prompts | причал, лодки, гости |
-| **LOC-RAFT** | круглый плот на берегу (кадр 19) | Image Prompts | кадры 19–23 |
-| **LOC-FIRE** | галечный берег с костром (кадр 39) | Image Prompts | финал |
+| **LOC-LAKE** | озеро с плотами (ваш готовый кадр 1) | Image Prompts | общие планы воды |
+| **LOC-HOUSE** | дом с травяной крышей (ваш готовый кадр 2) | Image Prompts | природа у дома |
+| **LOC-PATH** | тропа в травах (ваш готовый кадр 10) | Image Prompts | кадры 16–17, танец в травах |
+| **LOC-JETTY** | деревянный причал (ваш готовый кадр 8) | Image Prompts | причал, лодки, гости |
+| **LOC-RAFT** | круглый плот на берегу (кадр 19, первый новый) | Image Prompts | кадры 19–23 |
+| **LOC-FIRE** | галечный берег с костром (кадр 39, первый новый) | Image Prompts | финал |
 
 Правило: для кадров **без героини** HERO не подключать, только WORLD + LOC. Для вечерних кадров берите те же LOC, а вечерний свет задаёт промпт.
 
@@ -26,90 +28,11 @@
 - **Veo-хвост (природа)**: No people, no text, no subtitles. Cinematic photoreal.
 
 
-# ЧАСТЬ 1. Основные 45 кадров
-
-
-## Акт I. Утро: дом и озеро
-Свет: soft cool morning light, low sun, light mist over the water
-
-### 1. Установочный, воздух
-- **Реф:** HERO (Attach to prompt, можно слабее) + WORLD (Style reference) + LOC-LAKE (Image Prompts, главный для композиции)
-- **MJ:** extreme wide aerial view of the lake archipelago at dawn, a wooden house on a small island, round wooden rafts covered in flowers, black swans, tiny figure of the heroine: a woman in black feathered armor-like costume and brown embroidered cloak, long dark wavy hair with bangs on the porch, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** Slow aerial push-in over the misty lake, swans glide, mist drifts, tiny figure on the porch. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 2. Дом снаружи
-- **Реф:** HERO (Attach to prompt, можно слабее) + WORLD (Style reference) + LOC-HOUSE (Image Prompts, главный для композиции)
-- **MJ:** wide shot of the carved wooden house with grass roof and closed door, dew on the grass, lake and swans in the background, the heroine: a woman in black feathered armor-like costume and brown embroidered cloak, long dark wavy hair with bangs not yet visible, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** Static camera, mist moving over water, a swan crosses the frame, birdsong. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 3. Дверь, средний план
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-HOUSE (Image Prompts)
-- **MJ:** medium shot from behind and slightly to the side, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak unbarring a heavy carved wooden door, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** She lifts the wooden bar and pulls the door open, soft light spills out, feathers sway slightly. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 4. Лицо в проёме
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-HOUSE (Image Prompts)
-- **MJ:** close-up portrait, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak in the open doorway, soft morning light on her face, calm serious gaze toward the lake, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** Almost still: slow blink, a breath, a strand of hair moves in the breeze, subtle slow push-in. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 5. Выход на крыльцо
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-HOUSE (Image Prompts)
-- **MJ:** medium-wide shot, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak stepping onto the wooden porch and stretching her arms, feather shoulder pieces lifting in the breeze, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** She steps out and spreads her arms, feathers ruffle, camera pulls back slightly. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 6. Деталь: ноги и подол
-- **Реф:** HERO (Attach, только для костюма: наруч, перья, юбка) + WORLD (Style reference) + LOC-HOUSE
-- **MJ:** low angle insert of dark boots on wet wooden steps, hem of a long black pleated skirt, dewy grass, close detail of the heroine's hands with carved bronze bracer, black feather shoulder piece and black pleated skirt visible, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** She walks down the steps, skirt hem brushes the grass, shallow focus. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 7. Через плечо: озеро
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-LAKE (Image Prompts)
-- **MJ:** over-the-shoulder shot from behind, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak looking over the lake with floating flower rafts and black swans, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** Camera slowly drifts right, swans glide across the water, wind moves her hair. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 8. Кормит лебедей
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-JETTY (Image Prompts)
-- **MJ:** medium shot at a wooden jetty, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak scattering grain, black swans approaching on the water, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** She tosses grain, swans swim closer and ripple the water, soft morning light. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 9. Деталь: лебедь
-- **Реф:** HERO (Attach, только для костюма: наруч, перья, юбка) + WORLD (Style reference) + LOC-JETTY
-- **MJ:** macro-style close-up of a black swan's red beak and neck near a hand holding grain, close detail of the heroine's hands with carved bronze bracer, black feather shoulder piece and black pleated skirt visible, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, soft cool morning light, low sun, light mist over the water
-- **Veo:** Swan lowers its neck to the hand, tiny water ripples, shallow focus. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
+# ЧАСТЬ 1. Основные кадры 16–45 (1–15 уже сделаны)
 
 
 ## Акт II. Сборы на острове
 Свет: bright clear daylight, high-key, gentle breeze
-
-### 10. Тропа в травах
-- **Реф:** HERO (Attach to prompt, можно слабее) + WORLD (Style reference) + LOC-PATH (Image Prompts, главный для композиции)
-- **MJ:** wide side-tracking shot, the heroine: a woman in black feathered armor-like costume and brown embroidered cloak, long dark wavy hair with bangs walking along a path through pale tall grass carrying a wicker basket, lake behind, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, bright clear daylight, high-key, gentle breeze
-- **Veo:** Tracking shot left to right, grass sways in the wind, she walks steadily. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 11. Срезает цветы
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-PATH (Image Prompts)
-- **MJ:** medium close shot, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak kneeling to cut wildflowers with a small curved knife, violet and white flowers, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, bright clear daylight, high-key, gentle breeze
-- **Veo:** She cuts a stem and lays it in the basket, wind moves the petals. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 12. Деталь: букет
-- **Реф:** HERO (Attach, только для костюма: наруч, перья, юбка) + WORLD (Style reference) + LOC-PATH
-- **MJ:** close-up of hands holding a bundle of violet, white and yellow wildflowers, close detail of the heroine's hands with carved bronze bracer, black feather shoulder piece and black pleated skirt visible, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, bright clear daylight, high-key, gentle breeze
-- **Veo:** Fingers tighten the bundle with a thin cord, petals tremble. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 13. Ветки и ягоды
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-PATH (Image Prompts)
-- **MJ:** medium shot, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak gathering birch branches and red rowan berries by a stone wall, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, bright clear daylight, high-key, gentle breeze
-- **Veo:** She pulls a branch down, berries sway, she adds it to the load on her shoulder. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 14. Контровой выход из трав
-- **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-PATH (Image Prompts)
-- **MJ:** low angle through blurred grass, the heroine: young woman, olive skin, green eyes with thin angular silver marks under the eyes, long dark-brown wavy hair with straight full bangs and thin temple braids, silver chain earrings, black sculpted armor-like bodice with silver lines, carved bronze belt and bracer, black raven-feather shoulder pieces, long black pleated skirt, brown embroidered cloak walking toward the camera, backlit by the high sun, rim light on feathers, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, bright clear daylight, high-key, gentle breeze
-- **Veo:** Slow dolly back as she walks toward the lens, lens flare, grass in the foreground. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
-
-### 15. Мостик, воздух
-- **Реф:** HERO (Attach to prompt, можно слабее) + WORLD (Style reference) + LOC-PATH (Image Prompts, главный для композиции)
-- **MJ:** high aerial shot, the heroine: a woman in black feathered armor-like costume and brown embroidered cloak, long dark wavy hair with bangs crossing a small wooden footbridge between two islets, rafts and swans below, cinematic photoreal, remote northern archipelago, end of warm summer, pale tall grasses, shallow lake, round wooden flower rafts, black swans, 35mm film look, natural color, bright clear daylight, high-key, gentle breeze
-- **Veo:** Aerial follow from above, she crosses the bridge, water sparkles. Keep the heroine's face, hair and costume exactly as in the reference image. No cuts, no text, no subtitles. Cinematic photoreal.
 
 ### 16. Склад фонарей
 - **Реф:** HERO (Attach to prompt, главный) + WORLD (Style reference) + LOC-PATH (Image Prompts)
